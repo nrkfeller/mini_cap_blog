@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Milestone 1"
+date:   2016-01-30 15:22:49
+categories: jekyll update
+---
+We have deliberated over 3 potential options for out project.
+
+1. Vehicule Data Acquisition Tool for Vehicles
+
+2. Customized Clothing Soltion for Retailers
+
+3. Social Network for Hobbies
+
+We used a decision matric weighing the different criteria we estimated for each project, and decided to go forward with option 1 : Data Aquisition Tool for Vehicles.
+
+Here is out document for milestone 1: [Here][here]
+
+
+[here]: https://docs.google.com/document/d/1c5Lum2-U4w4_KCsScbtnWmK3JtH7O_pkOHBntdbSSsA/edit?usp=sharing
