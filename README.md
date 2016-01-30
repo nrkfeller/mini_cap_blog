@@ -1,1 +1,1 @@
-# mini_cap_blog
+http://nrkfeller.github.io/mini_cap_blog/
