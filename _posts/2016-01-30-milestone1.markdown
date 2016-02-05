@@ -8,7 +8,7 @@ We have deliberated over 3 potential options for out project.
 
 1. Vehicule Data Acquisition Tool for Vehicles
 
-2. Customized Clothing Soltion for Retailers
+2. Customized Clothing Solution for Retailers
 
 3. Social Network for Hobbies
 
