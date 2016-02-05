@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Meeting 3"
+date:   2016-02-06 15:22:49
+categories: jekyll update
+---
+Meeting 3 - Minutes
