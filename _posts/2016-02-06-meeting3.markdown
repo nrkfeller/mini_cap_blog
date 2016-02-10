@@ -10,7 +10,7 @@ Participants: Nick, Loic, Ambre, Roberto
 
 Our Data Acquisition Toll which is focused on tracking a driver's behavior and return feedback.
 
-We have decided that our main client will be SAE (Societe Automobile des Ingenieur) which is a student run vehicle prototyping competition. As well as the general public drivers that are concerned with fuel consumption, tracking for new drivers, car enthusiasts, and insurers.
+We have decided that our main client will be SAE (Societe Automobile des Ingenieur) which is a student run vehicle prototyping competition. As well as the general public drivers that are concerned with fuel consumption and driving schools, tracking for new drivers, car enthusiasts, and insurers.
 
 Deciding on the features by priority
 

@@ -3,8 +3,8 @@ title: Group G Blog
 email: me@nicolasfeller.com
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to Group G's blog. We are using this tool to track our progress building an Android application. Our app acquires data from vehicules using sensor, and uses this data to give feedback and tips.
-baseurl: /mini_cap_blog # the subpath of your site, e.g. /blog/
-url: "http://nrkfeller.github.io/mini_cap_blog/#" # the base hostname & protocol for your site
+baseurl: /mini_cap_blog/ 
+url: http://nrkfeller.github.io
 twitter_username: nickyfellz
 github_username:  nrkfeller
 
