@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Meeting 4"
+date:   2016-03-10 13:00:00
+categories: jekyll update
+---
+
+We met Yuan, our new team member and gave him a brief introduction of our app. We discussed its main functionalities (which include: data recording and real-time tracking) as well as its general design.
+We also came up with a few ideas of the settings we wanted to implement, such as the language, the units (Miles/hour and Km/hour) and the color-blind mode.
+Nick also clarified a few questions we had on the programming of the GPS and the gyroscope.
+During this meeting (and after) we all got more familiar with GITHUB and its commands (add, commit, push and pull)
+We ended the meeting by splitting the tasks for sprint 2.

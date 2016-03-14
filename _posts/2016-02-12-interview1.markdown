@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Interview 1"
+date:   2016-02-12 12:00:00
+categories: jekyll update
+---
+We have conducted our first interview with Norvan Gharabegi from SAE at Concordia.
+
+SAE is an international asiciation of engineers and related technical experts in aerospace, automotive and commercial vehicle industry.
+
+The Concordia chapter has built vehicles for some of SAE's competitions. We thouh they would a an excellent client for our data aquisition application.
+
+Here for more information on [SAE][SAE]
+
+
+[SAE]: http://www.sae.org/about/

@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Interview 2"
+date:   2016-02-17 18:00:00
+categories: jekyll update
+---
+We have conducted our second interview with friends of Roberto who regularly compete in go-karting.
+
+
+
+The Concordia chapter has built vehicles for some of SAE's competitions. We thouh they would a an excellent client for our data aquisition application.
+
+Here for more information on [SAE][SAE]
+
+
+[SAE]: http://www.sae.org/about/
