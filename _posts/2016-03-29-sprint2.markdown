@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Sprint 2"
+date:   2016-03-29 13:00:00
+categories: jekyll update
+---
+We all met to define our goals for sprint 2 and split the tasks.
+We decided to divide the work into three parts:
+Task 1: Save all the raw data at a given time interval (that the user can set)
+Task 2: Have the data displayed with a nice UI (graphs etc..)
+Task 3: Have the settings (being able to select what is displayed, where it is displayed and what is saved)
+We assigned Task 1 to Nick, Task 2 to Loïc and Roberto and Task 3 to Yuan and Ambre.
+
+During the week, each group met individually to discuss their own parts.
