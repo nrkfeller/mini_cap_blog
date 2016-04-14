@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Sprint 3"
+date:   2016-04-14 14:55:00
+categories: jekyll update
+---
+
+After the Sprint 2 meeting with Tyler we divided the tasks for the final Sprint as follow:
+-Ambre and Yuan: Lap Counter 
+
+-Nick: Script functionality→ the user can choose a specific time in the race when a message would be displayed (this message would be specified earlier)
+
+-Roberto and Loic: Display saved data on graphs, bar charts etc.. (using json string)
